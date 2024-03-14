@@ -10,3 +10,5 @@ Após clonar o repositório, acesse a pasta do projeto e execute os comandos aba
 % npm install
 % npm run dev
 ```
+
+![Projeto em execução](public/project.png)
